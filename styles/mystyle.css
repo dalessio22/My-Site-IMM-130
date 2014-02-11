@@ -1,6 +1,14 @@
-/* this is my style sheet */
+@charset "utf-8";
+/* CSS Document */
 
-* { 
-font-family:Arial, Helvetica, sans-serif
+h1 {
+	font-family:Arial, Helvetica, sans-serif
 }
 
+h2 {
+	font-family:Tahoma, Geneva, sans-serif
+}
+
+p {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif
+}
