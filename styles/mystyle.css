@@ -13,3 +13,37 @@ h2 {
 p {
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif
 }
+
+#wrapper {
+width: 500px;
+margin: 10px auto 10px auto;
+height: 1000px;
+background: #eeeeee;
+}
+
+header {
+    width: 100px;
+    height: 50px;
+    background: #dddddd;
+}
+
+footer {
+    
+}
+
+
+nav, aside {
+    background: #dddddd;
+    width: 100px;
+}
+article {
+    border: 1px solid #000000;
+    background: #ffffff;
+    width: 300px;
+    float: left;
+
+}
+
+.article-header{
+    background: #ffffff;
+}
