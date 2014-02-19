@@ -1,8 +1,9 @@
 .wrapper {
-    width: 500px;
+    width: 450px;
     margin: 10px auto 10px auto;
     height: 300px;
-
+    border: 1px solid #000;
+    text-align: center;
 
 
 @charset "utf-8";
