@@ -1,7 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
- <headtag> <link rel ='stylesheet' type='text/css' href='styles/mystyle.css'>
- </headtag>
+
  
 h1 {
 	font-family:Arial, Helvetica, sans-serif
@@ -74,5 +73,6 @@ ul#topTab li a.current:hover {
   color: #2E4560;
   background: #fff;
 }
-
-</style>
+#about {
+	margin:0 auto;
+}
