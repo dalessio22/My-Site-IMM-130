@@ -73,6 +73,7 @@ ul#topTab li a.current:hover {
   color: #2E4560;
   background: #fff;
 }
-#about {
-	margin:0 auto;
+#div {
+	text-align: center;
+		
 }
