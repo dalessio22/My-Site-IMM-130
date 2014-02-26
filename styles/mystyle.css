@@ -75,5 +75,8 @@ ul#topTab li a.current:hover {
   background: #fff;
 }
 
+div {
+	text-align: center;
+}
 
 
