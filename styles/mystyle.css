@@ -1,9 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-div {
-	text-align: center;	
-
 
  
 h1 {
@@ -78,5 +75,5 @@ ul#topTab li a.current:hover {
   background: #fff;
 }
 
-}
+
 
